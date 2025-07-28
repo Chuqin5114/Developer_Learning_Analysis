@@ -73,16 +73,21 @@ Finally, **hybrid learners**—those using multiple distinct learning types—ea
 
 
 ### 5.1. What are the most common learning methods among developers?
+![Popularity of learning methods](https://github.com/Chuqin5114/Developer_Learning_Analysis/blob/d700d8395944f1398dd94b9a42969b73dfdb62d9/image/pupolarity%20of%20learning%20methods.png)
 
 - **Online resources dominate**: 82% of developers use online resources like videos, blogs, and forums. However, only 6% rely on them exclusively, indicating they’re usually combined with other methods.
 - **Structured learning remains important**: Books, online courses, and formal education each appear in ~50% of responses, but are rarely used alone (under 3%). These methods are often paired with informal, flexible resources.
 - **Social learning plays a supporting role**: Methods involving colleagues, friends, or bootcamps are used less frequently (10–24%) and almost never independently.
+
+![Distribution of Number of Learning Methods Selected](https://github.com/Chuqin5114/Developer_Learning_Analysis/blob/d700d8395944f1398dd94b9a42969b73dfdb62d9/image/number%20of%20learning%20method.png)
+
 - **Learning is highly multimodal**: Most developers (88%) use multiple methods. The most common combinations involve 3–4 types of learning.
 
 **Key takeaway**: Modern developers learn through a blend of structured and self-directed resources, with online content acting as the central hub of their learning ecosystem.
 
 
 ### 5.2. What online resources are most popular, and how many are typically used?
+![Popularity of Online Learning Resources](https://github.com/Chuqin5114/Developer_Learning_Analysis/blob/6f627f1136f03e69899c28ff01d06bcd032e44f5/image/Popularity%20of%20Online%20Learning%20Resources.png)
 
 - **Technical documentation leads**: 83.8% of developers rely on official documentation, closely followed by Stack Overflow at 80.2%.
 - **Written formats remain strong**: Tutorials (68.4%) and blogs (61.4%) outperform video formats, suggesting many learners still prefer reading for its depth and flexibility.
@@ -94,6 +99,8 @@ Finally, **hybrid learners**—those using multiple distinct learning types—ea
 
 
 ### 5.3. How do learning preferences differ by experience level?
+
+![Learning method usage by Experience Group](https://github.com/Chuqin5114/Developer_Learning_Analysis/blob/d700d8395944f1398dd94b9a42969b73dfdb62d9/image/learning%20method%20by%20experience.png)
 
 - **Books gain popularity with experience**: Usage increases from ~35% among beginners to 75% among those with 35+ years of experience.
 - **Online resources are consistently favored**: Usage remains high (75–83%) across all groups, except those aged 50+, where it dips to 60%.
