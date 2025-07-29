@@ -1,5 +1,29 @@
 # How Developers Learn to Code: Trends, Tools, and Impact on Career Growth
 
+### Tools Used
+![Python](https://img.shields.io/badge/Python-blue)
+
+### Project Type
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-orange)
+![Data Analysis](https://img.shields.io/badge/%20Data%20Analysis-orange)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange)
+
+### Role
+![Stakeholder](https://img.shields.io/badge/Stakeholder-green)
+
+
+## Table of Contents
+1. [Project Background](#1-project-background)  
+2. [Project Objectives](#2-project-objectives)  
+3. [Data Overview](#3-data-structure-overview)  
+4. [Executive Summary](#4-executive-summary)  
+5. [Insights Deep Dive](#5-insights-deep-dive)  
+6. [Recommendations for Learners and Developers](#6-recommendations-for-learners-and-developers)  
+7. [Technical Details](#7-technical-details)  
+8. [Assumptions & Caveats](#8-assumptions--caveats)
+
+
+
 ## 1. Project Background
 
 ### Context
